@@ -23,14 +23,14 @@ model can easily be further trained to increase the performance.
 
 ### Some Results
 -------------------------------------------------------------------------------------
-<img src="https://github.com/Mahyar-Ali/Image-Captioning-with-Visual-Attention/blob/master/img/NUST.jpeg?raw=true" alt="drawing" width="500"/>
+<img src="https://github.com/Mahyar-Ali/Image-Captioning-with-Visual-Attention/blob/master/images/NUST.jpeg?raw=true" alt="drawing" width="500"/>
 
 predicted caption: a wooded area in the middle of the street with a bench near a sidewalk
 
 </br>
 
 ---------------------------------------------------------------------------------------
-<img src="https://github.com/Mahyar-Ali/Image-Captioning-with-Visual-Attention/blob/master/img/bus_street.jpg" alt="drawing" width="500"/>
+<img src="https://github.com/Mahyar-Ali/Image-Captioning-with-Visual-Attention/blob/master/images/bus_street.jpg" alt="drawing" width="500"/>
 
 predicted caption-1: a bus is in the street near a building
 
@@ -39,7 +39,7 @@ predicted caption-2: a bus parked in a city street
 </br>
 
 ---------------------------------------------------------------------------------------
-<img src="https://github.com/Mahyar-Ali/Image-Captioning-with-Visual-Attention/blob/master/img/islamabad.jpeg?raw=true" alt="drawing" width="500"/>
+<img src="https://github.com/Mahyar-Ali/Image-Captioning-with-Visual-Attention/blob/master/images/islamabad.jpeg?raw=true" alt="drawing" width="500"/>
 
 predicted caption : the building in front of the hills
 
